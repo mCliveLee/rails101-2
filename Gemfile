@@ -33,6 +33,8 @@ gem 'bootstrap-sass'
 #Bootstrap is CSS's shell frame.
 gem 'simple_form'
 #Make table simply
+gem 'devise'
+#For login system
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
